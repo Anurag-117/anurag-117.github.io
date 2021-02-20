@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clip-logo">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="logo" clip-path="url(#clip-logo)">
+    <rect width="512" height="512" fill="#fff"/>
+    <text id="Anurag_Dhadse" data-name="Anurag Dhadse" transform="translate(42 275)" font-size="54" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Anurag Dhadse</tspan></text>
+  </g>
+</svg>
