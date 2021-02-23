@@ -1,27 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Blogs on Anurag Dhadse</title>
-    <link>https://adhadse.github.io/blog/</link>
-    <description>Recent content in Blogs on Anurag Dhadse</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 08 Jan 2021 15:26:26 +0530</lastBuildDate><atom:link href="https://adhadse.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>https://adhadse.github.io/blog/my-first-post/</link>
-      <pubDate>Fri, 08 Jan 2021 15:26:26 +0530</pubDate>
-      
-      <guid>https://adhadse.github.io/blog/my-first-post/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogs on Anurag Dhadse</title><link>https://anuragdhadse.com/blog/</link><description>Recent content in Blogs on Anurag Dhadse</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 08 Jan 2021 15:26:26 +0530</lastBuildDate><atom:link href="https://anuragdhadse.com/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://anuragdhadse.com/blog/my-first-post/</link><pubDate>Fri, 08 Jan 2021 15:26:26 +0530</pubDate><guid>https://anuragdhadse.com/blog/my-first-post/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Pellentesque eu tincidunt tortor
 aliquam nulla facilisi cras fermentum odio. A erat nam at lectus urna duis.
 Sed velit dignissim sodales ut eu sem. Lectus urna duis convallis convallis
 tellus. Diam sit amet nisl suscipit adipiscing bibendum est. Sed felis eget
 velit aliquet sagittis id consectetur. Vulputate dignissim suspendisse in est
 ante in nibh mauris cursus. Morbi quis commodo odio aenean. Mollis nunc sed id
-semper risus in hendrerit gravida rutrum.&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+semper risus in hendrerit gravida rutrum.&lt;/p></description></item></channel></rss>
